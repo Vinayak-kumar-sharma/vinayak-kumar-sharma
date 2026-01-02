@@ -41,7 +41,7 @@ As a fresher, I’m continuously learning and exploring how real-world software 
 
 
 ## 📂 Key Projects  
-- [Express + PostgreSQL Backend](https://github.com/Vinayak-kumar-sharma/app_postgress_express_backend)  
+- [Foodiee](https://github.com/Vinayak-kumar-sharma/foodview)  
 - [E-commerce](https://github.com/Vinayak-kumar-sharma/ecommerce)  
 - [Blogging Website](https://github.com/Vinayak-kumar-sharma/Myblog)
 - [Websocket-chat](https://github.com/Vinayak-kumar-sharma/websocket-chat)
